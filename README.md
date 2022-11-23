@@ -4,7 +4,7 @@ This project explores the power of data storage and Rrtrieval to produce an anal
 
 Summary Statistics DataFrame: June vs December Temperatures
 
-![image_name](Images/June temps.png)
+! [image_name](Images/June temps.png)
 
 The average recorded temperature in June is about 75 degrees F, 4 degrees higher than the average temp in December.
 This represents a -5% change in average temperature from June to December
